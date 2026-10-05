@@ -1,0 +1,12 @@
+pandas>=2.2.3
+numpy>=2.1.0
+scipy>=1.14.1
+matplotlib>=3.9.2
+seaborn>=0.13.2
+scikit-learn>=1.5.2
+jupyter>=1.1.1
+ipykernel>=6.29.5
+pyarrow>=18.0.0
+openpyxl>=3.1.5
+folium>=0.20.0
+xgboost>=3.0.0
